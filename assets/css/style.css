@@ -16,20 +16,18 @@ header {
     background-color: #39a6b2;
 }
 
-/* h1 color change not working */
 header h1 {
     font-weight: bold;
     font-size: 36px;
     color: #fce138;
     margin: 0;
     display: inline;
-  }
+}
 
-/* a changes work */
 header a {
     text-decoration: none;
     color: #fce138;
-  }
+}
 
 header nav {
     float: right;
@@ -67,4 +65,8 @@ footer div {
 
 footer a {
     color: #024e76;
+}
+
+section {
+    padding: 60px;
 }
